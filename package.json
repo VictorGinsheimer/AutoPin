@@ -1,0 +1,18 @@
+{
+  "title": "AutoPin",
+  "name": "autopin",
+  "version": "0.0.1",
+  "description": "Pins homepage(s) everytime firefox is started",
+  "main": "index.js",
+  "author": "wetboy",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "autpin",
+    "pinning",
+    "pins"
+  ]
+}
