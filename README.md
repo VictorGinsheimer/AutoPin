@@ -1,2 +1,3 @@
-#AutoPin
-Pins homepage(s) everytime firefox is started
+# AutoPin
+Firefox Extension | Pins homepage(s) everytime firefox starts
+
