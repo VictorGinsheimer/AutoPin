@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "description": "Pins homepage(s) everytime firefox is started",
   "main": "index.js",
+  "icon": "resource://@autopin/res/icon.png",
   "author": "wetboy",
   "engines": {
     "firefox": ">=38.0a1",
